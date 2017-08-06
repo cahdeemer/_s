@@ -35,18 +35,18 @@ Then, update the stylesheet header in `style.css` and the links in `footer.php` 
 Getting Started, Part 2
 ------------------
 
-From terminal, run npm install to get all the dependencies.
+From terminal, run `npm install` to get all the dependencies.
 
 Grunt Commands
 
-grunt
+`grunt`
 
 Runs the basic watch command, which processes Sass and waits for changes.
 
-grunt startServer
+`grunt startServer`
 
-Runs a server on localhost:4000 and watches for changes.
+Runs a server on `localhost:4000` and watches for changes.
 
-grunt production
+`grunt production`
 
 Compiles Sass, removes console.log().
